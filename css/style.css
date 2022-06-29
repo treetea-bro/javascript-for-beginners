@@ -1,5 +1,5 @@
 body {
-  background-size: cover;
+  background-size: 100rem;
   background-repeat: no-repeat;
 }
 
@@ -19,8 +19,7 @@ body {
 }
 
 #quote {
-  position: fixed;
-  bottom: 10em;
+  margin-top: 200px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
